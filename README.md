@@ -76,7 +76,7 @@ This project is for my personal learning, development and maintenance only, I do
 ## Software installation - release
 
 ```
-wget --no-check-certificate -O Aiko-Server.sh https://raw.githubusercontent.com/AikoPanel/Aiko-Server-Script/master/install.sh && bash Aiko-Server.sh
+wget --no-check-certificate -O Aiko-Server.sh https://raw.githubusercontent.com/AikoPanelv1/Aiko-Server-Script/master/install.sh && bash Aiko-Server.sh
 ```
 
 ## Aiko-Server Community Support
